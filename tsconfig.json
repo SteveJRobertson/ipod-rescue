@@ -7,7 +7,7 @@
     "strict": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "types": ["node", "strtok3"]
+    "types": ["node", "strtok3", "jest"]
   },
   "include": ["src/**/*.ts"],
   "exclude": ["node_modules"],
